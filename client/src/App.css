@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+}
+
+.App {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    border: 2rem solid #d71e19;
+    background-image: url("./img/background2.avif");
+    background-size: cover;
+}
+
+.source {
+    position: absolute;
+    right: 50%;
+    left: 50%;
+    bottom: 50px;
+}
+
+.nav-container {
+    position: fixed;
+    left: 50%;
+    bottom: 20px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+    border: 3px solid #1976d2;
+    border-radius: 5px;
+    box-shadow: 0 0 15px 2px #1976d2;
+}

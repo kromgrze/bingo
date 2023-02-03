@@ -1,0 +1,59 @@
+{
+  "name": "bingo-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.7",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.2.6",
+    "classnames": "^2.3.2",
+    "randomcolor": "^0.6.2",
+    "react": "^18.2.0",
+    "react-confetti": "^6.1.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "shuffle-array": "^1.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts --max_old_space_size=4096 start",
+    "build": "react-scripts --max_old_space_size=4096 build",
+    "test": "jest",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@cfaester/enzyme-adapter-react-18": "^0.6.0",
+    "babel-jest": "^29.4.1",
+    "enzyme": "^3.11.0",
+    "esbuild": "^0.17.5",
+    "esbuild-jest": "^0.5.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest-environment-jsdom": "^29.4.1",
+    "react-test-renderer": "^18.2.0"
+  }
+}

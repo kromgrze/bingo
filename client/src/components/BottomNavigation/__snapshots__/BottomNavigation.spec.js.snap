@@ -1,0 +1,788 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Bottom Navigation drawer state 1`] = `
+<div
+  className="MuiBox-root css-15o7b25"
+>
+  <div
+    className="MuiBottomNavigation-root css-16lloyr-MuiBottomNavigation-root"
+  >
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="FormatListNumberedIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M2 17h2v.5H3v1h1v.5H2v1h3v-4H2v1zm1-9h1V4H2v1h1v3zm-1 3h1.8L2 13.1v.9h3v-1H3.2L5 10.9V10H2v1zm5-6v2h14V5H7zm0 14h14v-2H7v2zm0-6h14v-2H7v2z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Highscores
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="AddCircleIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Add Field
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="RestartAltIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 5V2L8 6l4 4V7c3.31 0 6 2.69 6 6 0 2.97-2.17 5.43-5 5.91v2.02c3.95-.49 7-3.85 7-7.93 0-4.42-3.58-8-8-8zm-6 8c0-1.65.67-3.15 1.76-4.24L6.34 7.34C4.9 8.79 4 10.79 4 13c0 4.08 3.05 7.44 7 7.93v-2.02c-2.83-.48-5-2.94-5-5.91z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Reset
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="LogoutIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="m17 7-1.41 1.41L18.17 11H8v2h10.17l-2.58 2.58L17 17l5-5zM4 5h8V3H4c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8v-2H4V5z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Logout
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Bottom Navigation drawer state 2`] = `
+<div
+  className="MuiBox-root css-15o7b25"
+>
+  <div
+    className="MuiBottomNavigation-root css-16lloyr-MuiBottomNavigation-root"
+  >
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="FormatListNumberedIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M2 17h2v.5H3v1h1v.5H2v1h3v-4H2v1zm1-9h1V4H2v1h1v3zm-1 3h1.8L2 13.1v.9h3v-1H3.2L5 10.9V10H2v1zm5-6v2h14V5H7zm0 14h14v-2H7v2zm0-6h14v-2H7v2z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Highscores
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="AddCircleIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Add Field
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="RestartAltIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 5V2L8 6l4 4V7c3.31 0 6 2.69 6 6 0 2.97-2.17 5.43-5 5.91v2.02c3.95-.49 7-3.85 7-7.93 0-4.42-3.58-8-8-8zm-6 8c0-1.65.67-3.15 1.76-4.24L6.34 7.34C4.9 8.79 4 10.79 4 13c0 4.08 3.05 7.44 7 7.93v-2.02c-2.83-.48-5-2.94-5-5.91z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Reset
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="LogoutIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="m17 7-1.41 1.41L18.17 11H8v2h10.17l-2.58 2.58L17 17l5-5zM4 5h8V3H4c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8v-2H4V5z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Logout
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Bottom Navigation drawer state 3`] = `
+<div
+  className="MuiBox-root css-15o7b25"
+>
+  <div
+    className="MuiBottomNavigation-root css-16lloyr-MuiBottomNavigation-root"
+  >
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="FormatListNumberedIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M2 17h2v.5H3v1h1v.5H2v1h3v-4H2v1zm1-9h1V4H2v1h1v3zm-1 3h1.8L2 13.1v.9h3v-1H3.2L5 10.9V10H2v1zm5-6v2h14V5H7zm0 14h14v-2H7v2zm0-6h14v-2H7v2z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Highscores
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="AddCircleIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Add Field
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="RestartAltIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 5V2L8 6l4 4V7c3.31 0 6 2.69 6 6 0 2.97-2.17 5.43-5 5.91v2.02c3.95-.49 7-3.85 7-7.93 0-4.42-3.58-8-8-8zm-6 8c0-1.65.67-3.15 1.76-4.24L6.34 7.34C4.9 8.79 4 10.79 4 13c0 4.08 3.05 7.44 7 7.93v-2.02c-2.83-.48-5-2.94-5-5.91z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Reset
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="LogoutIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="m17 7-1.41 1.41L18.17 11H8v2h10.17l-2.58 2.58L17 17l5-5zM4 5h8V3H4c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8v-2H4V5z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Logout
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Bottom Navigation drawer state set to right 1`] = `
+<div
+  className="MuiBox-root css-15o7b25"
+>
+  <div
+    className="MuiBottomNavigation-root css-16lloyr-MuiBottomNavigation-root"
+  >
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="FormatListNumberedIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M2 17h2v.5H3v1h1v.5H2v1h3v-4H2v1zm1-9h1V4H2v1h1v3zm-1 3h1.8L2 13.1v.9h3v-1H3.2L5 10.9V10H2v1zm5-6v2h14V5H7zm0 14h14v-2H7v2zm0-6h14v-2H7v2z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Highscores
+      </span>
+      <span
+        className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root Mui-selected css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="AddCircleIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label Mui-selected css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Add Field
+      </span>
+      <span
+        className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="RestartAltIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 5V2L8 6l4 4V7c3.31 0 6 2.69 6 6 0 2.97-2.17 5.43-5 5.91v2.02c3.95-.49 7-3.85 7-7.93 0-4.42-3.58-8-8-8zm-6 8c0-1.65.67-3.15 1.76-4.24L6.34 7.34C4.9 8.79 4 10.79 4 13c0 4.08 3.05 7.44 7 7.93v-2.02c-2.83-.48-5-2.94-5-5.91z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Reset
+      </span>
+      <span
+        className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="LogoutIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="m17 7-1.41 1.41L18.17 11H8v2h10.17l-2.58 2.58L17 17l5-5zM4 5h8V3H4c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8v-2H4V5z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Logout
+      </span>
+      <span
+        className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Bottom Navigation no drawer state 1`] = `
+<div
+  className="MuiBox-root css-15o7b25"
+>
+  <div
+    className="MuiBottomNavigation-root css-16lloyr-MuiBottomNavigation-root"
+  >
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="FormatListNumberedIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M2 17h2v.5H3v1h1v.5H2v1h3v-4H2v1zm1-9h1V4H2v1h1v3zm-1 3h1.8L2 13.1v.9h3v-1H3.2L5 10.9V10H2v1zm5-6v2h14V5H7zm0 14h14v-2H7v2zm0-6h14v-2H7v2z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Highscores
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="AddCircleIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Add Field
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="RestartAltIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 5V2L8 6l4 4V7c3.31 0 6 2.69 6 6 0 2.97-2.17 5.43-5 5.91v2.02c3.95-.49 7-3.85 7-7.93 0-4.42-3.58-8-8-8zm-6 8c0-1.65.67-3.15 1.76-4.24L6.34 7.34C4.9 8.79 4 10.79 4 13c0 4.08 3.05 7.44 7 7.93v-2.02c-2.83-.48-5-2.94-5-5.91z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Reset
+      </span>
+    </button>
+    <button
+      className="MuiButtonBase-root MuiBottomNavigationAction-root css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="LogoutIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="m17 7-1.41 1.41L18.17 11H8v2h10.17l-2.58 2.58L17 17l5-5zM4 5h8V3H4c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8v-2H4V5z"
+        />
+      </svg>
+      <span
+        className="MuiBottomNavigationAction-label css-imwso6-MuiBottomNavigationAction-label"
+      >
+        Logout
+      </span>
+    </button>
+  </div>
+</div>
+`;
